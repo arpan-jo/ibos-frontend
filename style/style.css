@@ -45,15 +45,13 @@
 	border-radius: 30px;
 	margin-top: -40px;
 	padding-bottom: 44px;
-	padding-left: 30px;
 }
 .image-section {
 	padding-top: 30px;
+	padding-left: 30px;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	gap: 5px;
-	grid-auto-flow: dense;
-	justify-content: center;
 }
 .image-container {
 	height: 145px;
